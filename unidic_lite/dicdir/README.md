@@ -10,3 +10,5 @@ Specifically:
 
     https://unidic.ninjal.ac.jp/unidic_archive/cwj/2.1.2/unidic-mecab-2.1.2_bin.zip
 
+Because they are large these files are not included in the git source for unidic-lite.
+
