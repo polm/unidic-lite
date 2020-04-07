@@ -1,1 +1,1 @@
-from .unidic_lite import DICDIR, VERSION
+from .unidic import DICDIR, VERSION
