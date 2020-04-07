@@ -2,7 +2,8 @@ import os
 import sys
 
 def get_version(dicdir):
-    with open(dicdir + '/version') as vfile:
+    vpath = os.path.join(dicdir, 'version')
+    with open(vpath) as vfile:
         return vfile.read().strip()
 
 _curdir = os.path.dirname(__file__)
