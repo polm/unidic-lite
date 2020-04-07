@@ -3,7 +3,7 @@ import setuptools
 from distutils.core import setup
 
 setup(name='unidic-lite', 
-      version='1.0.0',
+      version='1.0.1',
       author="Paul O'Leary McCann",
       author_email="polm@dampfkraft.com",
       description="A small version of UniDic packaged for Python",
