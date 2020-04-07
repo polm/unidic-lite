@@ -11,5 +11,11 @@ setup(name='unidic-lite',
       long_description_content_type="text/markdown",
       url="https://github.com/polm/unidic-lite",
       packages=setuptools.find_packages(),
+      classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+        "Natural Language :: Japanese",
+      ],
       package_data={'unidic_lite': ['dicdir/*']}
       )
