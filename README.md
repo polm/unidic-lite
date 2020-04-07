@@ -13,3 +13,8 @@ of UniDic that's small enough to be distributed via PyPI.
 In order to use this you will need to install a MeCab wrapper such as
 [mecab-python3](https://github.com/SamuraiT/mecab-python3) or
 [fugashi](https://github.com/polm/fugashi). 
+
+## License
+
+This code is licensed under the MIT or WTFPL license, as you prefer. Unidic
+2.1.2 is distributed under the GPL2, LGPL, or BSD license.
