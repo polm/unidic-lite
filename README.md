@@ -1,3 +1,5 @@
+[![Current PyPI packages](https://badge.fury.io/py/unidic-lite.svg)](https://pypi.org/project/unidic-lite/)
+
 # Unidic Lite
 
 This is a version of [unidic-py](https://github.com/polm/unidic-py) that is
