@@ -7,7 +7,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
     README = f.read()
 
 setup(name='unidic-lite', 
-      version='1.0.2',
+      version='1.0.3',
       author="Paul O'Leary McCann",
       author_email="polm@dampfkraft.com",
       description="A small version of UniDic packaged for Python",
