@@ -1,4 +1,3 @@
-import pathlib
 import setuptools
 from distutils.core import setup
 
