@@ -17,4 +17,5 @@ In order to use this you will need to install a MeCab wrapper such as
 ## License
 
 This code is licensed under the MIT or WTFPL license, as you prefer. Unidic
-2.1.2 is distributed under the GPL2, LGPL, or BSD license.
+2.1.2 is copyright the UniDic Consortium and distributed under the terms of the
+[BSD license](./LICENSE.unidic). 
