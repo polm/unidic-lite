@@ -20,7 +20,7 @@ This has a few changes from the official UniDic release to make it easier to use
 
 - entries for 令和 have been added
 - single-character numeric and alphabetic words have been deleted
-- `unk.def` has been modified so unknown punction won't be marked as a noun
+- `unk.def` has been modified so unknown punctuation won't be marked as a noun
 
 ## License
 
