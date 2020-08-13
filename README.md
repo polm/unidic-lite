@@ -14,6 +14,14 @@ In order to use this you will need to install a MeCab wrapper such as
 [mecab-python3](https://github.com/SamuraiT/mecab-python3) or
 [fugashi](https://github.com/polm/fugashi). 
 
+## Differences from the Official UniDic Release
+
+This has a few changes from the official UniDic release to make it easier to use.
+
+- entries for 令和 have been added
+- single-character numeric and alphabetic words have been deleted
+- `unk.def` has been modified so unknown punction won't be marked as a noun
+
 ## License
 
 This code is licensed under the MIT or WTFPL license, as you prefer. Unidic
